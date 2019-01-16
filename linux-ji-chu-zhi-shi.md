@@ -20,8 +20,6 @@ MITx offers a free version of this subject on edX. Please register to get starte
 
 MIT提供2个版本的课程，6.00.2x是进阶课程，会有一些高级的编程技巧,去解决更多的实际问题
 
-
-
 | The slides  and codes  课程相关的文档代码下载链接如下 |
 | :--- |
 
