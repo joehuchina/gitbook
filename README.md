@@ -2,7 +2,7 @@
 
 # 数据中心学习指南
 
-My name is Xiaoming Hu.  Welcome touch me at Joe.humr@gmail.com
+Joe.humr@gmail.com
 
 I have being working as a datacenter engineer and solution architect over 10 years for several big global IT companies .My career started as a Network Engineer at 2008  and then I was moved to some projects related with Vmware , EMC NetApp storage ,openstack and AWS etc. Be frankly I enjoyed these changes and since then Im trying to get more and more information about datacenter and cloud technologies .
 
