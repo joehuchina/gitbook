@@ -44,6 +44,18 @@ print 100/3
 
 什么是floating number ?A floating point number is a number that contains a decimal point. These numbers are floating point numbers 4.5, 767.43, -89.342343, -67.8988893
 
+
+
+`print(0.55+0.3)`
+
+
+
+结果是0.8500000000000001  ，因为在浮点计算的时候，会先把0.55和0.3转化成二进制数
+
+
+
+
+
 #### 百分号%怎么运算？
 
 它的表达是A除B的余数 除尽的话是就是0  除不尽就是它的余数
