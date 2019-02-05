@@ -11,4 +11,5 @@
   * [习题3 数字和数学计算](python3-zi-xue-zhi-nan/xi-ti-3-shu-zi-he-shu-xue-ji-suan.md)
   * [习题4 字符串](python3-zi-xue-zhi-nan/xi-ti-4-bian-liang-he-ming-ming.md)
   * [条件判断](python3-zi-xue-zhi-nan/tiao-jian-pan-duan.md)
+  * [input\(\)函数](python3-zi-xue-zhi-nan/inputhan-shu.md)
 
